@@ -1,0 +1,18 @@
+Write a program to calclate BMI?
+Write a program to convert from inches to meters?
+Write a program to swap two numbers?
+Write a program to find the area and perimeter of a circle. 
+Write a program to find the average of three numbers.
+Write a program to find speed by taking distance and time as a inputs. 
+Write a program to find out given number is a 5 digit number or not.
+Write a program to find out a given year is leap year or not.
+Write a program to find out percentage when you got 360 marks out of 500.
+Write a program to find out selling price. If number of items purchased is more between 0 to 100 the discount is 10%, If number of items purchased is more between 100 to 200 the discount is 20%,If number of items purchased is more than 200 the discount is 30%,
+Write a program to convert a given to temparture from celisus to faranhent.
+Write a program to find out given number is a palindrome or not.
+Write a program to find out the twin prime below 100.
+Write a program to reverse the number.
+Write a program to print the factorial of a given number.
+Write a program to find out second max digit of a given number.(Example: input =1234, output =3)
+Write a program to check given number is prime or not.
+Write a program to check a given number is perfect number or not.
