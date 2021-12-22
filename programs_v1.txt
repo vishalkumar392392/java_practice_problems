@@ -1,0 +1,39 @@
+1. Write a program to print addition of four numbers.
+2. Write a program and print given number is even or odd.
+3. Write a program to swap to numbers using temp variable in java.(If question not understand,use internet and search the question)
+
+4. Loop through 1 to 100 numbers and print only even numbers.
+5. Loop through 1 to 1000 numbers and print numbers which are divisible by 2 and 5. (Example 10 is divisible by 2 & 5).
+6. Write a program to calculate the sum of first 10 natural number.
+7. Write a program that prompts the user to input a positive integer. It should then print the multiplication table of that number.
+8. Write a program to find the factorial value of any number entered through the keyboard.
+9. Write a program that prompts the user to input an integer and then outputs the number with the digits reversed. For example, if the input is 12345, the output should be 54321.
+
+Refer below website to check your answers..
+http://www.beginwithjava.com/java/loops/questions.html
+
+10. Program to find the sum of natural numbers from 1 to 1000.
+11. Write a program to find out a number is prime or not.
+
+12. Write a program to check if the letter 'e' is present in the word 'Umbrella'.
+13. Write a program to check if the word 'orange' is present in the "This is orange juice".
+14. Write a program to convert a string into integer.
+15. Hint: Integer.parseInt();
+String-> "1234",
+integer -> 1234
+16. Write a program to which converts lowercase string to uppercase.
+17. Write a program to reverse the spring.
+
+
+18. Find the minimum and maximum element in an array
+19. Write a program to reverse the array
+
+20. Find the duplicate characters in string.
+21. Find the second-duplicate characters in string.
+22. Find the first non-reapting character in string.
+23. Find the second non-repating character in string.
+
+24. Find the duplicate number in array.
+25. Find the second duplicate number in array.
+26.Find the first non repeating number in array.
+27. Find the second non-reapting number in array.
